@@ -1,0 +1,73 @@
+.orange_callToAction {
+	display:block;
+	padding:7px 30px;
+	font-size:1.2em;
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+	color: #fff;
+	text-transform:uppercase;
+	border:1px solid #b96717;
+	text-shadow : 1px 1px 2px #f3602d;	
+    margin:15px 0px 0px 30px;
+/*Color gradient for buttons*/	
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0.51, #eb972a),
+	color-stop(1, #f3602d)
+);
+background-image: -o-linear-gradient(bottom, #eb972a 51%, #f3602d 100%);
+background-image: -moz-linear-gradient(bottom, #eb972a 51%, #f3602d 100%);
+background-image: -webkit-linear-gradient(bottom, #eb972a 51%, #f3602d 100%);
+background-image: -ms-linear-gradient(bottom, #eb972a 51%, #f3602d 100%);
+background-image: linear-gradient(to bottom, #eb972a 51%, #f3602d 100%);
+/*border radius for buttons*/
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+/* box shadow css*/
+  -moz-box-shadow:    0px 0px 4px 2px #d1d1d1;
+  -webkit-box-shadow: 0px 0px 4px 2px #d1d1d1;
+  box-shadow:         0px 0px 4px 2px #d1d1d1;
+ /*Inner Shadow
+ outline: solid #f1b358 1px;
+      outline-offset: -11px;
+	  outline-style:solid;*/
+	}
+.orange_callToAction:hover {
+	display:block;
+	padding:7px 30px;
+	font-size:1.2em;
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+	color: #fff;
+	text-transform:uppercase;
+	border:1px solid #b96717;
+	text-shadow : 1px 1px 2px #f3602d;	
+/*Color gradient for buttons*/	
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0.51, #f3602d),
+	color-stop(1, #eb972a)
+);
+background-image: -o-linear-gradient(bottom, #f3602d 51%, #eb972a 100%);
+background-image: -moz-linear-gradient(bottom, #f3602d 51%, #eb972a 100%);
+background-image: -webkit-linear-gradient(bottom, #f3602d 51%, #eb972a 100%);
+background-image: -ms-linear-gradient(bottom, #f3602d 51%, #eb972a 100%);
+background-image: linear-gradient(to bottom, #f3602d 51%, #eb972a 100%);
+/*border radius for buttons*/
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+/* box shadow css*/
+  -moz-box-shadow:    0px 0px 4px 2px #d1d1d1;
+  -webkit-box-shadow: 0px 0px 4px 2px #d1d1d1;
+  box-shadow:         0px 0px 4px 2px #d1d1d1;
+ /*Inner Shadow
+ outline: solid #f1b358 1px;
+      outline-offset: -11px;
+	  outline-style:solid;*/
+	}
